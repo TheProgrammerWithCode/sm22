@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<PackData basePack="http://c3420952.r52.cf0.rackcdn.com/basedatapack.xml" name="Union 5" desc="Velocerland soccer teams">
+<PackData basePack="http://example.com/basepackurl.xml" name="Velocerland Pack" desc="Velocerland pack">
 
-<PlayerData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12341/">
-<P id="314" f="Sir" s="Secret" i="velocer.png" />
+<PlayerData baseImageUrl="https://i.imgur.com/StxXUdB.png">
+<P id="314" f="Sir" s="Secret"/>
 </PlayerData>
 
-<ClubData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12351/">
-<C id="219" n="Union 5" i="union5_logo.png" />
+<ClubData baseImageUrl="https://i.imgur.com/Kt38K33.png">
 </ClubData>
 
 </PackData>
