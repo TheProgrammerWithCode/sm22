@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="http://c3420952.r52.cf0.rackcdn.com/basedatapack.xml" name="Union 5" desc="Velocerland soccer teams">
+
+<PlayerData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12341/">
+<P id="314" f="Sir" s="Secret" i="velocer.png" />
+</PlayerData>
+
+<ClubData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12351/">
+<C id="219" n="Union 5" i="union5_logo.png" />
+</ClubData>
+
+</PackData>
