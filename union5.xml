@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<PackData basePack="http://example.com/basepackurl.xml" name="Velocerland Pack" desc="Velocerland pack">
+<PackData name="Velocerland Pack" desc="Velocerland pack">
 
 <PlayerData baseImageUrl="https://i.imgur.com/StxXUdB.png">
 <P id="314" f="Sir" s="Secret"/>
