@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <PackData name="Velocerland Pack" desc="Velocerland pack">
 
-<PlayerData baseImageUrl="https://i.imgur.com/StxXUdB.png">
-<P id="314" f="Sir" s="Secret"/>
+<PlayerData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12341/">
+	<P id="1" f="Jens" s="LEHMANN" i="1.jpg"/>
 </PlayerData>
 
 <ClubData baseImageUrl="https://i.imgur.com/Kt38K33.png">
