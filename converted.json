@@ -1,0 +1,12 @@
+{
+  "@name": "Velocerland Pack",
+  "@desc": "Velocerland pack",
+  "PlayerData": {
+    "P": {
+      "@id": "1",
+      "@f": "sir",
+      "@s": "secret",
+      "@i": "1.jpg"
+    }
+  }
+}
